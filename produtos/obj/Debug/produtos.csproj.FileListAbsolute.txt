@@ -1,0 +1,7 @@
+C:\Users\riverson nobre\source\repos\produtos\produtos\obj\Debug\produtos.csproj.AssemblyReference.cache
+C:\Users\riverson nobre\source\repos\produtos\produtos\obj\Debug\produtos.csproj.CoreCompileInputs.cache
+C:\Users\riverson nobre\source\repos\produtos\produtos\bin\Debug\produtos.exe.config
+C:\Users\riverson nobre\source\repos\produtos\produtos\bin\Debug\produtos.exe
+C:\Users\riverson nobre\source\repos\produtos\produtos\bin\Debug\produtos.pdb
+C:\Users\riverson nobre\source\repos\produtos\produtos\obj\Debug\produtos.exe
+C:\Users\riverson nobre\source\repos\produtos\produtos\obj\Debug\produtos.pdb
